@@ -40,7 +40,7 @@ document.getElementById("continueBtn").onclick = ()=>{
 // Password
 
 
-const secretCode = "shaima";
+const secretCode = "shaima20";
 
 
 document.getElementById("unlockBtn").onclick = ()=>{
